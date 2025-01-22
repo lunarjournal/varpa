@@ -1,0 +1,20 @@
+Non-Commercial Software License
+
+1. Definitions
+1.1 "Software" refers to the source code, object code, documentation, and any accompanying files provided under this license.
+1.2 "You" or "Your" refers to the individual or entity using the Software.
+1.3 "Non-Commercial Use" means personal, educational, or research purposes that do not directly or indirectly generate revenue or involve commercial activity.
+1.4 "Commercial Use" means any use of the Software that generates revenue, is used in the operation of a business, or contributes to the creation of intellectual property intended for commercial gain.
+
+2. Grant of License
+2.1 Subject to the terms and conditions of this license, the copyright holder grants You a non-exclusive, non-transferable, and royalty-free license to use, copy, modify, and distribute the Software, provided that:
+(a) Your use is strictly for Non-Commercial Use.
+(b) You include this license in all copies or substantial portions of the Software.
+
+3. Restrictions
+3.1 You shall not use the Software for Commercial Use.
+3.2 You shall not incorporate the Software, in whole or in part, into any work intended to create intellectual property for commercial purposes, including but not limited to patents, trademarks, or proprietary technologies.
+3.3 You shall not sublicense, sell, rent, lease, or otherwise make the Software available for Commercial Use.
+4. Disclaimer of Warranty
+4.1 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
