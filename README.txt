@@ -26,7 +26,7 @@ Files
 -----
 
 |----- /firmware         Firmware source for ATmega328p
-|----- /pcb              Altium design files
+|----- /pcb              Altium PCB files for system modules
 |----- /scripts          Misc scripts and CLI application
 |----- /resources        Misc resources
 |----- LICENSE.txt       VARPA license
