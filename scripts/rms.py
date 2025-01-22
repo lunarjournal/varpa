@@ -8,6 +8,9 @@
 # - Attribution required.
 # See License.txt
 
+# Script for RMS power calibration
+# using the DSA815. 
+
 import serial
 import socket
 import time
