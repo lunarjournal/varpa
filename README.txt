@@ -20,4 +20,6 @@ or distribute code contained in this
 repository for commercial use or the
 creation of intellectual property.
 
+See LICENCE.txt for more info.
+
 
