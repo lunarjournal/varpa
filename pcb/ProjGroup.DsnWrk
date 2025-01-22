@@ -1,0 +1,22 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\..\..\mulldyl\Downloads\ADC_20_132_\AltiumDesigner\ADC-20-132&plus_.LibPkg
+[Project2]
+ProjectPath=Projects\PCB_Transceiver\SI4468.PrjPcb
+[Project3]
+ProjectPath=Projects\MCP3202\MCP3202.PrjPcb
+[Project4]
+ProjectPath=Projects\PCB_Project_1\MCP4725.PrjPcb
+[Project5]
+ProjectPath=Projects\LTC5582\LTC5582.PrjPcb
+[Project6]
+ProjectPath=Projects\2E_MATCH\LC_MATCH_0.PrjPcb
+[Project7]
+ProjectPath=Projects\PA Module\AFT05MS004.PrjPcb
+[Project8]
+ProjectPath=Projects\PA Coupler\F1956.PrjPcb
+[Project9]
+ProjectPath=Projects\PA Coupler2\SCBD-10-63HP.PrjPcb
+[Project10]
+ProjectPath=Projects\PA Relay\LC_MATCH_1.PrjPcb
