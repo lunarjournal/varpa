@@ -22,4 +22,11 @@ creation of intellectual property.
 
 See LICENSE.txt for more info.
 
+Files
+-----
 
+|----- /firmware         Firmware source for ATmega328p
+|----- /pcb              Altium design files
+|----- /scripts          Misc scripts and CLI application
+|----- /resources        Misc resources
+|----- LICENSE.txt       VARPA license
