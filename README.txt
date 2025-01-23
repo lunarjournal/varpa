@@ -11,9 +11,11 @@ Dylan Muller.
 License
 -------
 
-All source code contained within this
-repository is copyrighted with all
-rights reserved.
+This code may not be copied, reproduced, 
+or distributed without prior written 
+permission. 
+
+All rights reserved.
 
 It is stricly prohibited to use, modify
 or distribute code contained in this 
