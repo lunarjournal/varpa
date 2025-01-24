@@ -1,4 +1,4 @@
-VARPA: A Variable RF Power Amplifier
+VARPA: A Variable Power Amplifier
 
 
 About
