@@ -2,8 +2,7 @@ About
 -----
 
 This repository contains source code
-for the VARPA project authored by
-Dylan Muller.
+for the VARPA project.
 
 License
 -------

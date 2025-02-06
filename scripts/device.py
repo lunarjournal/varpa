@@ -1,5 +1,3 @@
-# VARPA MSc Project
-# 
 # Author: Dylan Muller
 # Copyright (c) 2025 
 # All rights reserved.
